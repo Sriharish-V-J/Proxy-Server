@@ -39,9 +39,3 @@ A simple HTTP proxy server implemented using Python sockets. This project demons
 
 ---
 
-## ▶️ Usage
-
-### 1. Run the proxy server
-
-```bash
-python proxy.py
