@@ -1,4 +1,4 @@
-# HTTP Proxy Server (Python)
+# HTTP Proxy Server
 
 A simple HTTP proxy server implemented using Python sockets. This project demonstrates how HTTP requests can be intercepted, modified, and forwarded between a client and a destination server.
 
